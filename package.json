@@ -1,0 +1,18 @@
+{
+  "name": "iotacss-base-initialize",
+  "version": "1.0.0",
+  "description": "Initialize for iotaCSS",
+  "main": "_base.initialize.scss",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iotacss/base.initialize.git"
+  },
+  "keywords": [
+    "iotacss",
+    "css",
+    "sass",
+    "bem",
+    "oocss"
+  ],
+  "author": "Dimitris Psaropoulos <info@harby.me>"
+}
